@@ -36,7 +36,7 @@
     <section class="form-section">
         <form method="Post" action="https://formdump.codeinstitute.net/" class="signup-form">
             <h2>
-                Let's get you signed up!<i class="fas fa-heartbeat"></i>
+                Let's get you signed up!
             </h2>
             <label for="fname">First Name</label>
             <input class="text-input" type="text" id="fname" name="first_name" required>
@@ -44,13 +44,14 @@
             <input class="text-input" type="text" id="lname" name="last_name" required>
             <label for="email">Email Address</label>
             <input class="text-input" type="email" id="email" name="email_address" required>
-            <label for="road">Road</label>
-            <input type="radio" id="road" value="road" name="running_preference" required>
-            <label for="trail">Trail</label>
-            <input type="radio" id="trail" name="running_preference" value="trail">
-            <label for="both">Both</label>
-            <input type="radio" id="both" name="running_preference" value="both">
-            <input class="join-button" type="submit" value="Let's Run!">
+            <!--Radio buttons-->
+            <label for="day">Mon->Fri</label>
+            <input type="radio" id="day" value="mon->fri" name="schedule" required>
+            <label for="weekend">Weekend</label>
+            <input type="radio" id="weekend" name="schedule" value="weekend">
+            <label for="both">Whole Week</label>
+            <input type="radio" id="both" name="schedule" value="both">
+            <input class="join-button" type="submit" value="REGISTER!">
         </form>
     </section>
     <footer>
