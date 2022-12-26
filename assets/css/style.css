@@ -187,9 +187,10 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png") no-repeat center center;
+    background: url(../images/centre-welcome-croped.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;
+    background-size: contain;
 }
 
 /* Opening times */
