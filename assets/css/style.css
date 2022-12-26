@@ -189,10 +189,11 @@ hr {
     border-radius: 50%;
 }
 
-/* Event times */
+/* Opening times */
 
-#times{
-    background-image: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/dublin-city.png");
+#times {
+    background-image: url(../images/dublin-city.webp);
+    
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -202,11 +203,11 @@ hr {
 
 #times div {
     color: #fafafa;
-    background-color: rgba(0,0,0, .6);
+    background-color: rgba(0, 0, 0, .6);
     width: 20%;
     height: 300px;
     float: left;
-    padding: 30px 0 0 10px;
+    padding: 30px, 0, 0, 10px;
     text-align: center;
     border: 2px solid white;
     box-sizing: border-box;
@@ -214,6 +215,14 @@ hr {
 
 #times h2 {
     color: #fafafa;
+}
+
+#times > p {
+    text-align: center;
+    background-color: #ffffff;
+    font-size: 110%;
+    margin-top: 0;
+    font-weight: bold;
 }
 
 /* Footer */
