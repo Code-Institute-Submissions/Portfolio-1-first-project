@@ -414,14 +414,14 @@ footer{
         padding: 0 20px 0 20px;
     }
 
-    #photo{
-        column-count: 3;
+    #photos{
+        column-count: 2;
     }
 }
 
 /* For small screens sizes from 800px wide and down */
 @media screen and (max-width: 800px){
-    #photo{
-        column-count: 2;
+    #photos{
+        column-count: 1;
     }
 }
