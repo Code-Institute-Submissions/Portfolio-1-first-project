@@ -6,12 +6,13 @@
     border:0;
 }
 
-body{
+/* body text-styling */
+body {
     font-family: Lato, sans-serif;
     color: #3a3a3a;
 }
 
-/* headings and logo */
+/* header and logo text-styling */
 
 h1, h2{
     font-family: Oswald, sans-serif;
@@ -26,7 +27,7 @@ h1, h2{
     margin-left: 30px;
 }
 
-/* navigation links */
+/* header navigation links */
 
 #menu{
     font-size: 110%;
@@ -52,33 +53,38 @@ h1, h2{
     border-bottom: 1px solid #3a3a3a;
 }
 
+/* active navigation-bar styling */
+
 .active{
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* Welcome image and cover text */
+/* header Welcome image and cover text */
 
-#hero-outer{
+#header-outer{
     height:600px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
-#hero-image{
+#header-image{
     height: 600px;
     width: 100%;
     background: url(../images/centre-welcome.jpg) no-repeat center center;
-    /*Tested "background-size: contain;" to get the whole image - so uncomment if needed*/
+    /*"background-size: contain;"*/
+    /*Tested to get the whole image (full picture) inside of the container- 
+    but the result on smaller screens were not so satisfying..so uncomment the above property
+    if wanted -and remove this comment if satisfied with the result */
 
     /* Animates zoom effect on loading the page */
-    animation-name: hero-zoom;
+    animation-name: header-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
 
-/* Creates the level of zoom for hero image */
-@keyframes hero-zoom {
+/* Creates the level of zoom for header image */
+@keyframes header-zoom {
     from{
         transform: scale(1);
     }
@@ -86,6 +92,8 @@ h1, h2{
         transform: scale(1.1);
     }
 }
+
+/* Header red-box text*/ 
 
 #cover-text, #cover-text h2 {
     color: #ffffff;
@@ -114,9 +122,9 @@ h1, h2{
 
 }
 
-/* Club ethos */
+/* the about - why register with us - section */
 
-#club-ethos{
+#youth-centre{
     height: 600px;
 }
 
@@ -166,6 +174,8 @@ hr {
 .right-about-heading h2 {
     text-align: right;
 }
+
+/* For hyperlinks visibility in about session */
 
 .text-underscore-hyperlink {
     font-style: italic;
@@ -267,7 +277,7 @@ footer{
     margin-top: 5%;
 }
 
-/* Gallery Photos */
+/* Gallery html Photos */
 
 #photos {
     clear: both;
@@ -280,12 +290,18 @@ footer{
     width: 100%;
 }
 
-/* Form */
+/* signup html Form */
 
 .form-section {
     clear: left;
     background: url("https://i.imgur.com/mjUV3Yk.jpg");
-    /*background: url(../images/centre-gathering-picture.jpg); <-uncomment this if imgur site is down to pick image from local repository instead */
+    /*background: url(../images/centre-gathering-picture.jpg);*/ 
+  
+    /* uncomment the above css line if 
+    imgur site is down, so that you can pick the image from the local repository instead
+    and set the imgur background url in comment - for future use, and 
+    update this comment with the performed action */
+
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -322,6 +338,8 @@ footer{
     border-color: #f16c6b;
 }
 
+/*form submition button */ 
+
 .join-button {
     margin-top: 20px;
     border-radius:2px;
@@ -342,8 +360,9 @@ footer{
 /* Media queries */
 
 /* For large to medium screens sizes from 1200px wide and down */
+
 @media screen and (max-width: 1200px){
-    #club-ethos{
+    #youth-centre{
         width: 65%;
         height: 1200px;
         margin: 0 auto;
@@ -380,6 +399,7 @@ footer{
 }
 
 /* For medium screens sizes from 950px wide and down */
+
 @media screen and (max-width: 950px){
 
     #menu{
@@ -394,7 +414,7 @@ footer{
         left:0px;
     }
 
-    #club-ethos{
+    #youth-centre{
         width:90%;
         height: 1200px;
         margin: 0 auto;
@@ -420,6 +440,7 @@ footer{
 }
 
 /* For small screens sizes from 800px wide and down */
+
 @media screen and (max-width: 800px){
     #photos{
         column-count: 1;
