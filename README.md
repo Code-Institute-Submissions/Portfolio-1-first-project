@@ -8,7 +8,7 @@ For example; Love Running is a site that hopes to help keep people motivated to 
 
 
 # Existing Features
-
+explaint overall
 
 ## Navigation Bar
 
@@ -27,7 +27,7 @@ The landing includes a photograph with text overlay to allow the user to see exa
 This section introduces the user to Love Running with an eye catching animation to grab their attention
 Landing Page
 
-## Club Ethos Section
+## The about Section
 
 <img width="745" alt="image" src="https://user-images.githubusercontent.com/119969411/209848623-830ab1bf-83ea-46d0-a8cf-b15fab10579b.png">
 
@@ -35,7 +35,7 @@ The club ethos section will allow the user to see the benefits of joining the Lo
 This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
 Club Ethos
 
-## Meetup Times section
+## Open Times section
 
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/119969411/209848706-e9f84b8d-407b-4cc7-b0ed-b882eca05d02.png">
 
