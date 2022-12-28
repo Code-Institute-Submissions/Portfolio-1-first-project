@@ -1,5 +1,6 @@
 # Your local Youth Centre
-![pexels-mart-production-8885024](https://user-images.githubusercontent.com/119969411/209468236-a628c453-9945-4434-8fd4-f4730c10739e.jpg)
+![Header](https://user-images.githubusercontent.com/119969411/209847272-1597e285-c5b4-48c2-b8d4-37698a029be5.jpg)
+
 
 In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
 
