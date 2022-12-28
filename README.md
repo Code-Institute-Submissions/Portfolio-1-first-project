@@ -71,6 +71,9 @@ Validator Testing
 
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/119969411/209744839-1f33ba21-a534-4a69-a613-98e635346ac2.png">
 
+<img width="578" alt="image" src="https://user-images.githubusercontent.com/119969411/209748301-e8d2399b-9082-4577-8026-0674e381d7ea.png">
+
+
 HTML
 No errors were returned when passing through the official W3C validator
 CSS
