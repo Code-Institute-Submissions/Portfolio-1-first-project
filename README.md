@@ -11,8 +11,9 @@ For example; Love Running is a site that hopes to help keep people motivated to 
 ### Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-## Existing Features
-### Navigation Bar
+# Existing Features
+
+## Navigation Bar
 
 ![image](https://user-images.githubusercontent.com/119969411/209848099-3566846a-0d32-483d-9efa-024ad1992b23.png)
 
@@ -20,7 +21,7 @@ Featured on all three pages, the full responsive navigation bar includes links t
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 Nav Bar
 
-### The landing page image
+## The landing page image
 
 ![image](https://user-images.githubusercontent.com/119969411/209848414-29308478-005f-46d6-9669-fb65da2ff064.png)
 
@@ -29,7 +30,7 @@ The landing includes a photograph with text overlay to allow the user to see exa
 This section introduces the user to Love Running with an eye catching animation to grab their attention
 Landing Page
 
-### Club Ethos Section
+## Club Ethos Section
 
 <img width="745" alt="image" src="https://user-images.githubusercontent.com/119969411/209848623-830ab1bf-83ea-46d0-a8cf-b15fab10579b.png">
 
@@ -37,7 +38,7 @@ The club ethos section will allow the user to see the benefits of joining the Lo
 This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
 Club Ethos
 
-### Meetup Times section
+## Meetup Times section
 
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/119969411/209848706-e9f84b8d-407b-4cc7-b0ed-b882eca05d02.png">
 
@@ -45,7 +46,7 @@ This section will allow the user to see exactly when the meetups will happen, wh
 This section will be updated as these times change to keep the user up to date.
 Meetup Times
 
-### The Footer
+## The Footer
 
 <img width="569" alt="image" src="https://user-images.githubusercontent.com/119969411/209848784-c8b4a975-61f9-41ce-9b35-bc8660b2fd74.png">
 
@@ -53,7 +54,7 @@ The footer section includes links to the relevant social media sites for Love Ru
 The footer is valuable to the user as it encourages them to keep connected via social media
 Footer
 
-### Gallery
+## Gallery
 
 ![image](https://user-images.githubusercontent.com/119969411/209848976-4c13409c-d962-4521-be72-0755ac3f240e.png)
 
@@ -61,7 +62,7 @@ The gallery will provide the user with supporting images to see what the meet up
 This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
 Gallery
 
-### The Sign Up Page
+## The Sign Up Page
 
 ![image](https://user-images.githubusercontent.com/119969411/209849104-a394f3f7-69b4-463d-8bec-2bd6e57abc62.png)
 
@@ -75,7 +76,8 @@ In addition, you may also use this section to discuss plans for additional featu
 
 Features Left to Implement
 Another feature idea
-## Testing
+# Testing
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
@@ -84,7 +86,7 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-### Validator Testing
+## Validator Testing
 
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/119969411/209744839-1f33ba21-a534-4a69-a613-98e635346ac2.png">
 
@@ -98,7 +100,7 @@ No errors were found when passing through the official (Jigsaw) validator
 Unfixed Bugs
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 
-## Deployment
+# Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -121,7 +123,7 @@ The photos used on the home and sign up page are from This Open Source site
 The images used for the gallery page were taken from this other open source site
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
 
-### Other General Project Advice
+# Other General Project Advice
 Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
 
 One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through this article by Chris Beams on How to Write a Git Commit Message
