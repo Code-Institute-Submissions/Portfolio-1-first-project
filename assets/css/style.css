@@ -399,9 +399,9 @@ footer{
     }
 }
 
-/* For medium screens sizes from 950px wide and down */
+/* For medium screens sizes from 100px wide and down */
 
-@media screen and (max-width: 950px){
+@media screen and (max-width: 1000px){
 
     #menu{
         clear: left;
@@ -447,3 +447,23 @@ footer{
         column-count: 1;
     }
 }
+
+/* Header styling added for small screens sizes from 600px wide and down */
+
+@media screen and (max-width: 600px){
+    #logo{
+        text-align: center;
+    }
+    #menu {
+        margin-left: 20px;
+    } 
+}
+
+/* menu styling added for small screens sizes with 425px wide */
+
+@media screen and (max-width: 425px){
+    #menu li{
+        margin-right: 16px;
+    } 
+}
+
