@@ -106,12 +106,12 @@ From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
 
-## Credits
+# Credits
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
 
 You can break the credits section up into Content and Media, depending on what you have included in your project.
 
-### Content
+## Content
 The text for the Home page was taken from Wikipedia Article A
 Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
 The icons in the footer were taken from Font Awesome
