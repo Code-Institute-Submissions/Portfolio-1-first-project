@@ -6,7 +6,14 @@ In short words, we would like to help parents to keep focus on their family with
 Together, and with other adults - we can build a great world for our kids - for a better and brighter future.
 
 # Existing Features
---Your Local Youth Center-- site has a landing page with an about section
+
+__*"Your Local Youth Center"*__ site has:
+
+* A landing page with an *about section, opening hour*, and *social media-links* in the page footer.
+* There is also a *gallery section* with pictures from the centre events with the kids (GDPR precaution is handled after subrscription and will not be a part of this project).
+* There is a *signUp* page also, on the sight for registration to the youth centre.
+* On the top of the site pages there is a navigationbar -to navigate between all pages and also to navigate to the page *"how to guide"*.
+* Links to pdf documents are put in the navigation bar, but also direct in paragraph text - for further information to the users (simplicity).
 
 ## Navigation Bar
 
