@@ -459,10 +459,10 @@ footer{
     } 
 }
 
-/* menu styling added for small screens sizes with 425px width */ 
-/* about background image also styled to fit 425px width devices */
+/* menu styling added for small screens sizes with 430px width */ 
+/* about background image also styled to fit 430px width devices */
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 430px){
     #menu li{
         margin-right: 16px;
     } 
