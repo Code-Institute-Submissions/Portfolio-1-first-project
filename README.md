@@ -1,12 +1,12 @@
 # Your local Youth Centre
 ![Header](https://user-images.githubusercontent.com/119969411/209847272-1597e285-c5b4-48c2-b8d4-37698a029be5.jpg)
 
-The *_Local Youth Centre_* is a site that hopes to help parents with their kids to fit-in to the society, without allot of unnecessary struggling with daily routines, which soemtimes gives less motivation regarding family unity (the struggle will always be there - but the Youth Centre want's to losend it up a bit and make it less painful... nobody said that life is easy - especially rasing youth's, so help is here)...
+The *__Local Youth Centre__* is a site that hopes to help parents with their kids to fit-in to the society, without allot of unnecessary struggling with daily routines, which soemtimes gives less motivation regarding family unity (the struggle will always be there - but the Youth Centre want's to losend it up a bit and make it less painful... nobody said that life is easy - especially rasing youth's, so help is here)...
 In short words, we would like to help parents to keep focus on their family without splitting it up - becaus of work and other necessary routines.
 Together, and with other adults - we can build a great world for our kids - for a better and brighter future.
 
 # Existing Features
-explaint overall
+--Your Local Youth Center-- site has a landing page with an about section
 
 ## Navigation Bar
 
