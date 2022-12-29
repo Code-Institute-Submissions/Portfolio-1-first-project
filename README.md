@@ -1,11 +1,9 @@
 # Your local Youth Centre
 ![Header](https://user-images.githubusercontent.com/119969411/209847272-1597e285-c5b4-48c2-b8d4-37698a029be5.jpg)
 
-
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club.
-
+The * Local Youth Centre * is a site that hopes to help parents with their kids to fit-in to the society, without allot of unnecessary struggling with daily routines, which soemtimes gives less motivation regarding family unity (the struggle will always be there - but the Youth Centre want's to losend it up a bit and make it less painful... nobody said that life is easy - especially rasing youth's, so help is here)...
+In short words, we would like to help parents to keep focus on their family without splitting it up - becaus of work and other necessary routines.
+Together, and with other adults - we can build a great world for our kids - for a better and brighter future.
 
 # Existing Features
 explaint overall
