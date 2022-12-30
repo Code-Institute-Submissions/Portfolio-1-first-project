@@ -14,6 +14,7 @@ __*"Your Local Youth Center"*__ site has:
 * There is a *signUp* page also, on the sight for registration to the youth centre.
 * On the top of the site pages there is a navigationbar -to navigate between all pages and also to navigate to the page *"how to guide"*.
 * Links to pdf documents are put in the navigation bar, but also direct in paragraph text - for further information to the users (simplicity).
+* And last, but of most <span style="color:red"> __*importance*__<span/>, the whole site content is built on spreading insperation and to motivate readers to register (marketing).
 
 ## Navigation Bar
 
