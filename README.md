@@ -1,8 +1,8 @@
 # Your local Youth Centre
 ![Header](https://user-images.githubusercontent.com/119969411/209847272-1597e285-c5b4-48c2-b8d4-37698a029be5.jpg)
 
-The *__Local Youth Centre__* is a site that hopes to help parents with their kids to fit-in to the society, without allot of unnecessary struggling with daily routines, which soemtimes gives less motivation regarding family unity (the struggle will always be there - but the Youth Centre want's to losend it up a bit and make it less painful... nobody said that life is easy - especially rasing youth's, so help is here)...
-In short words, we would like to help parents to keep focus on their family without splitting it up - becaus of work and other necessary routines.
+The *__Local Youth Centre__* is a site that hopes to help parents with their kids to fit-in to the society, without allot of unnecessary struggling with daily routines, which soemtimes gives less motivation regarding family unity (the struggle will always be there - but the Youth Centre want's to losend it up a bit and make it less painful... nobody said that life is easy - especially rasing youth's, but help is here)...
+In short words, we would like to help parents to keep focus on their family without splitting it up - because of work and other necessary routines.
 Together, and with other adults - we can build a great world for our kids - for a better and brighter future.
 
 # Existing Features
@@ -14,13 +14,13 @@ __*"Your Local Youth Center"*__ site has:
 * There is a *signUp* page also, on the sight for registration to the youth centre.
 * On the top of the site pages there is a navigationbar -to navigate between all pages and also to navigate to the page *"how to guide"*.
 * Links to pdf documents are put in the navigation bar, but also direct in paragraph text - for further information to the users (simplicity).
-* And last, but of most <span style="color:red"> __*importance*__<span/>, the whole site content is built on spreading insperation and to motivate readers to register (marketing).
+* And last, but of most __*importance*__, the whole site content is built on spreading insperation and to motivate readers to register (marketing).
 
 ## Navigation Bar
 
 ![image](https://user-images.githubusercontent.com/119969411/209848099-3566846a-0d32-483d-9efa-024ad1992b23.png)
 
-Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+Featured on all three pages, the full responsive navigation bar includes links to the help, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 Nav Bar
 
@@ -30,32 +30,29 @@ Nav Bar
 
 
 The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-This section introduces the user to Love Running with an eye catching animation to grab their attention
+This section introduces the user to The *Youth Centre* with an eye catching animation to grab their attention
 Landing Page
 
 ## The about Section
 
 <img width="745" alt="image" src="https://user-images.githubusercontent.com/119969411/209848623-830ab1bf-83ea-46d0-a8cf-b15fab10579b.png">
 
-The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
-This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
-Club Ethos
+The *about/welcome* section will allow the user to see the benefits of joining the *"Local Youth Centre"*, as well as the benefits of Youth Centre's in general.
+In this section the user's will see the value of signing up for the Youth Centre and it should encourage the user to consider accepting assistance from us.
+A sales-pitch in this section is the inspiering letter from an already registered user.
 
 ## Open Times section
 
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/119969411/209848706-e9f84b8d-407b-4cc7-b0ed-b882eca05d02.png">
 
-This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
-This section will be updated as these times change to keep the user up to date.
-Meetup Times
+This section will allow the user to see exactly when the meetups will happen, where they will be located and which caregiver that will be present.
 
 ## The Footer
 
 <img width="569" alt="image" src="https://user-images.githubusercontent.com/119969411/209848784-c8b4a975-61f9-41ce-9b35-bc8660b2fd74.png">
 
-The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
-The footer is valuable to the user as it encourages them to keep connected via social media
-Footer
+The footer section includes links to the relevant social media sites for the *Local Youth Centre". The links will open to a new tab to allow easy navigation for the user.
+The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ## Gallery
 
@@ -63,31 +60,36 @@ Footer
 
 The gallery will provide the user with supporting images to see what the meet ups look like.
 This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
-Gallery
 
 ## The Sign Up Page
 
 ![image](https://user-images.githubusercontent.com/119969411/209849104-a394f3f7-69b4-463d-8bec-2bd6e57abc62.png)
 
 
-This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
-Sign Up
+This page will allow the user to get signed up to the *Youth Centre* to start their journey with the community. The user will be able specify if they would like to take part in working weeks, weekends or both types of Youth-care. The user will be asked to submit their full name and email address.
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+The help link (how to document), in the navigation bar - on all of the site pages, will give more details of ie. what happens during and after the SignUp.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+In the "help" (how to document), we will add features as future realeases etc.
 
-Features Left to Implement
-Another feature idea
 # Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+The site has been tested within the timeline and resources given, on different devices and different browser.
+Tools as jigsaw.w3.org, valitator.w3.org, webaccessability.com, caniuse.com and diffchecker, plus more have been used to ensure a stable site -before deployment.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+Media queries for smal screen size's has solved all opened normal issues before deployment.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+One open minor Issue - to be postsponed and lifted out oh this deployment is: 
+1. On very, very small devices that opens the site from the "Facebook Messenger APP", the alignment on the site differs comparing to other browsers(so it seems like the APP uses it's own browser?).
+  *  This can be solved now and after deployment, by adding media queries for any devise that shows this issue (ie. user reports the "error").
+  *  Most likely, we will get no report from users regarding this "bug" (chanses of this scenario is minor).
+  *  Most likely, the amount of users getting this "error" is minor and workaround exists.
+     - To get past this issue (if a user gets the site link posted on the messenger APP and has a tiny devise) - then the user can open site on another browser.
+     - Another browser would be like ex. "open page on samsung internet" for a samsung smartphone (with a very very small screen).
+  *  So with a first line support, the answer (work around) would be to tell the user to open in other browser.
+  *  A secondline support could solve the bug easy (if reported).
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+Whit all this above issue considered, the best option is to push this release and see if a fix can be implemented later on.
 
 ## Validator Testing
 
@@ -101,17 +103,13 @@ No errors were returned when passing through the official W3C validator
 ### CSS
 No errors were found when passing through the official (Jigsaw) validator
 Unfixed Bugs
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 
 # Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The site was deployed to GitHub pages:
+
 The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
-
+(Link for Code: 
 # Credits
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
 
